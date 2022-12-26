@@ -15,7 +15,7 @@ include 'inc/header.php';
                 <table>
                     <tr>
                         <th>
-                            <label for="project_id">Project</label>
+                            <label for="project_id">Project<span class="required">*</span></label>
                         </th>
                         <td>
                             <select name="project_id" id="project_id">
